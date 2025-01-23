@@ -1,3 +1,5 @@
+pkg load control
+
 s=tf('s');
 
 gpi=5.75*(1+.53*s)/s;
